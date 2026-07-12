@@ -2,7 +2,6 @@
 import re
 import json
 import subprocess
-from copy import deepcopy
 # Disk handling
 class DiskChecker:
     def __init__(self) -> None:
