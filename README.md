@@ -15,3 +15,8 @@
 &emsp;users = bot.get_user_id('-') # 메시지 봇에서 발송할 대상자 체크
 
 3. main.py를 실행시킨다. 
+
+
+
+---
+자세한 설명은 https://blog.naver.com/smithfrancis313/223632293895
